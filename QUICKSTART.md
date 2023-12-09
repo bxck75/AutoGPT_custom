@@ -91,7 +91,7 @@ If you continue to experience issues, consider storing your project files within
    ![Create an Agent](docs/content/imgs/quickstart/007_create_agent.png)
 
     Upon creating your agent its time to officially enter the Arena!
-    Do so by running `./run arena enter YOUR_AGENT_NAME`
+    Do so by running `s YOUR_AGENT_NAME`
 
    ![Enter the Arena](docs/content/imgs/quickstart/008_enter_arena.png)
 
